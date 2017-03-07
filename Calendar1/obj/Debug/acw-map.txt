@@ -1,0 +1,4 @@
+Calendar1.MainActivity, Calendar1;md539df4843c17a0baf1881c228a60a6273.MainActivity
+Calendar1.MainActivity, Calendar1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md539df4843c17a0baf1881c228a60a6273.MainActivity
+Calendar1.MainActivity;md539df4843c17a0baf1881c228a60a6273.MainActivity
+calendar1.MainActivity;md539df4843c17a0baf1881c228a60a6273.MainActivity
